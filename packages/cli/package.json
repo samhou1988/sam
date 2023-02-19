@@ -1,10 +1,10 @@
 {
-  "name": "rvas/cli",
-  "version": "0.0.1",
+  "name": "@rvas/cli",
+  "version": "0.0.2",
   "description": "",
   "main": "index.js",
   "bin": {
-    "sam": "bin/sam"
+    "rvas": "bin/rvas"
   },
   "scripts": {
     "build": "tsc",
