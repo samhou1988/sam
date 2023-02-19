@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "allowJs": true,
+    "esModuleInterop": true,
+    "allowSyntheticDefaultImports": true,
+    "module": "ESNext",
+    "rootDir": "./lib",
+    "outDir": "./dist"
+  },
+  "include": ["./lib"],
+  "exclude": ["dist", "node_modules", "**/*.spec.ts"]
+}
