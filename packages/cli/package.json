@@ -1,6 +1,5 @@
 {
-  "private": true,
-  "name": "sam",
+  "name": "@sam/cli",
   "version": "0.0.1",
   "description": "",
   "main": "index.js",
