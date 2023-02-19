@@ -1,6 +1,5 @@
 {
-  "private": true,
-  "name": "@sam/ui",
+  "name": "@rvas/ui",
   "version": "0.0.1",
   "description": "",
   "main": "dist/index.js",
